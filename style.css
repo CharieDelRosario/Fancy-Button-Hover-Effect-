@@ -1,0 +1,38 @@
+body{
+  background-color: #151b29;
+  color:white;
+}
+button{
+  color:orange;
+  margin-left: 130px;
+  margin-top: 30px;
+  width:150px;
+  height: 50px;
+  border: 3px solid orange;
+  background: none;
+}
+ #bttn1:hover {
+  color:red;
+  border:2px solid yellow;
+  box-shadow: -3px 3px 5px yellow;
+}
+ #bttn2:hover {
+  color:white;
+  border:2px dashed yellow;
+  box-shadow: 30px -15px red;
+}
+ #bttn3:hover {
+  color:red;
+  border:2px dotted white;
+  box-shadow: 12px 12px 2px 1px pink;
+}
+ #bttn4:hover {
+  color:red;
+  border:2px solid grey;
+  box-shadow: inset 10px 10px skyblue;
+}
+ #bttn5:hover {
+  color:red;
+  border:2px solid violet;
+  box-shadow: 3px 3px teal, -3px 0 0 3px yellow;
+}
